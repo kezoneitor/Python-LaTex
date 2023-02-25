@@ -6,7 +6,9 @@ else:
 
 print("Hello world!")
 
-function main():
+def Main():
     num1 = 10
-    num2 = 5
-    print(num1+num2)
+    num2 = 20
+    print(num1*num2)
+
+Main()
